@@ -19,6 +19,7 @@ Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
 BuildRequires:	recode
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Structures_Graph is a package for creating and manipulating graph
