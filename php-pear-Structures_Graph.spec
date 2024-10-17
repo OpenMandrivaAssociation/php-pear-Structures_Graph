@@ -10,7 +10,7 @@ Release:	%mkrel 1
 Summary:	Graph datastructure manipulation library
 License:	LGPL
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Structures_Graph/
+URL:		https://pear.php.net/package/Structures_Graph/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
