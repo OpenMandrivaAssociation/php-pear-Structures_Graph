@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.3
-Release:	%mkrel 1
+Release:	2
 Summary:	Graph datastructure manipulation library
 License:	LGPL
 Group:		Development/PHP
